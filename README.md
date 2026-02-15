@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License" />
-    <img src="https://github.com/your-username/university-course-registration/workflows/CI/badge.svg" alt="CI Status" />
+    <img src="https://github.com/university-course-registration/university-course-registration/workflows/CI/badge.svg" alt="CI Status" />
   </p>
 
   <br />
