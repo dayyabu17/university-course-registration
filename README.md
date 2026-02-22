@@ -23,7 +23,6 @@
   <p>
     <img src="https://img.shields.io/github/issues-closed/university-course-registration/university-course-registration?style=flat-square&color=success" alt="Closed Issues" />
     <img src="https://img.shields.io/github/issues-pr-closed/university-course-registration/university-course-registration?style=flat-square&color=success" alt="Closed PRs" />
-    <img src="https://img.shields.io/github/contributors/university-course-registration/university-course-registration?style=flat-square" alt="Contributors" />
   </p>
 
   <br />
